@@ -22,6 +22,7 @@ return {
 				vue = { "prettier" },
 				lua = { "stylua" },
 				python = { "ruff" },
+				go = { "gofmt" },
 			},
 			format_on_save = {
 				lsp_fallback = true,
